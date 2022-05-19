@@ -10,11 +10,15 @@
 	<Item Name="lib" Type="Folder">
 		<Item Name="10进制转26进制.vi" Type="VI" URL="../10进制转26进制.vi"/>
 		<Item Name="26进制转10进制.vi" Type="VI" URL="../26进制转10进制.vi"/>
+		<Item Name="创建新工作表.vi" Type="VI" URL="../创建新工作表.vi"/>
 	</Item>
 	<Item Name="控件" Type="Folder">
+		<Item Name="单元格区域.ctl" Type="VI" URL="../单元格区域.ctl"/>
 		<Item Name="引用簇.ctl" Type="VI" URL="../引用簇.ctl"/>
 	</Item>
+	<Item Name="打开Excel.vi" Type="VI" URL="../打开Excel.vi"/>
 	<Item Name="读取数据.vi" Type="VI" URL="../读取数据.vi"/>
-	<Item Name="获取引用簇.vi" Type="VI" URL="../获取引用簇.vi"/>
+	<Item Name="关闭Excel.vi" Type="VI" URL="../关闭Excel.vi"/>
 	<Item Name="模板.xlsx" Type="Document" URL="../模板.xlsx"/>
+	<Item Name="写入数据.vi" Type="VI" URL="../写入数据.vi"/>
 </Library>
