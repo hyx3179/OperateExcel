@@ -26,5 +26,7 @@
 	<Item Name="关闭Excel.vi" Type="VI" URL="../关闭Excel.vi"/>
 	<Item Name="合并单元格.vi" Type="VI" URL="../合并单元格.vi"/>
 	<Item Name="模板.xlsx" Type="Document" URL="../模板.xlsx"/>
+	<Item Name="条件格式范围.vi" Type="VI" URL="../条件格式范围.vi"/>
 	<Item Name="写入数据.vi" Type="VI" URL="../写入数据.vi"/>
+	<Item Name="自动填充.vi" Type="VI" URL="../自动填充.vi"/>
 </Library>
