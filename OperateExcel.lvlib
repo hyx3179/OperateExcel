@@ -19,6 +19,7 @@
 	</Item>
 	<Item Name="控件" Type="Folder">
 		<Item Name="单元格区域.ctl" Type="VI" URL="../单元格区域.ctl"/>
+		<Item Name="公式填充.ctl" Type="VI" URL="../公式填充.ctl"/>
 		<Item Name="引用簇.ctl" Type="VI" URL="../引用簇.ctl"/>
 	</Item>
 	<Item Name="打开Excel.vi" Type="VI" URL="../打开Excel.vi"/>
@@ -29,4 +30,5 @@
 	<Item Name="条件格式范围.vi" Type="VI" URL="../条件格式范围.vi"/>
 	<Item Name="写入数据.vi" Type="VI" URL="../写入数据.vi"/>
 	<Item Name="自动填充.vi" Type="VI" URL="../自动填充.vi"/>
+	<Item Name="自动填充公式.vi" Type="VI" URL="../自动填充公式.vi"/>
 </Library>
